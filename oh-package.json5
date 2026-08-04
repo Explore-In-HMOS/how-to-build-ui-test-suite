@@ -1,0 +1,7 @@
+{
+  "modelVersion": "6.1.1",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+  },
+  "devDependencies": {} // NEEDS "@ohos/hypium": "1.0.25" PACKAGE HERE
+}
