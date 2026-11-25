@@ -2,7 +2,7 @@
 
 # How to Build UI Test Suite
 
-A HarmonyOS NEXT smartwatch application that demonstrates how to implement local and instrumented tests in ArkTS projects. Built with ArkTS and ArkUI, the application helps developers efficiently test application logic, user interface components, and navigation flows. It includes instrumented tests for application pages using TestKit APIs such as `UIElementInfo`, `UIEventObserver`, `abilityDelegatorRegistry`, and `Driver`, providing practical examples of how these testing components can be used in a real project.
+A HarmonyOS smartwatch application that demonstrates how to implement local and instrumented tests in ArkTS projects. Built with ArkTS and ArkUI, the application helps developers efficiently test application logic, user interface components, and navigation flows. It includes instrumented tests for application pages using TestKit APIs such as `UIElementInfo`, `UIEventObserver`, `abilityDelegatorRegistry`, and `Driver`, providing practical examples of how these testing components can be used in a real project.
 
 # Preview
 
